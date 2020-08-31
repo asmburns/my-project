@@ -1,0 +1,13 @@
+.wrapper{
+    width: 960px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+
+[data-theme="dark"] .ant-layout-header {
+    background: #6aa0c7;
+  }
+[data-theme="dark"] .ant-layout-footer {
+    background: #6aa0c7;
+  }
